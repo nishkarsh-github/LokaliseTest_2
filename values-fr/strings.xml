@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="plan_content_not_included">Contenu non inclus</string>
+    <string name="plan_content_included">Contenu inclus</string>
+    <string name="paywall_purchase_verifying">Vérification de l\'achat</string>
+    <string name="paywall_purchase_acknowledging">Confirmation d\'achat</string>
+    <string name="paywall_purchase_complete">Achat terminé</string>
+    <string name="plan_subscribed">Souscrit(e)</string>
+    <string name="plan_manage_subscription">Gérer votre souscription</string>
+    <string name="paywall_manage_subscriptions_not_found">Impossible d\'ouvrir le panneau des souscriptions</string>
+    <string name="paywall_wrong_configuration">Il n\'y a pas de souscriptions disponibles actuellement.</string>
+    <string name="paywall_wrong_configuration_extended"><![CDATA[Il n\'y a pas de souscriptions disponibles actuellement. Veuillez contacter <span style=\"color:%1$s\"> <b> %2$s </b> </span> pour obtenir de l\'aide.]]></string>
+    <string name="paywall_refresh">Rafraîchir</string>
+    <string name="paywall_subscribe">Souscrire</string>
+    <string name="paywall_billing_error_not_supported">Cet appareil ne prend pas en charge l\'achat de l\'abonnement.</string>
+    <string name="paywall_billing_error_developer">L\'erreur du développeur.</string>
+    <string name="paywall_billing_error_http">Le client a reçu une erreur http avec le code %1$d , veuillez réessayer.</string>
+    <string name="paywall_billing_error_fatal">L\'erreur rencontrée ne peut pas acheter, veuillez réessayer.</string>
+    <string name="paywall_billing_error_timeout">Les requêtes réseaux ont expiré, veuillez réessayer.</string>
+    <string name="paywall_billing_error_item_owned">Échec de l\'achat puisque l\'article est déjà possédé.</string>
+    <string name="paywall_billing_error_item_not_owned">Échec de consommation car l\'article n\'est pas possédé.</string>
+    <string name="paywall_billing_error_item_not_unavailable">Le produit demandé n\'est pas disponible à l\'achat.</string>
+    <string name="paywall_billing_error_cancelled">L\'achat est annulé.</string>
+    <string name="paywall_single_tier_title_annual">Souscription annuelle</string>
+    <string name="paywall_single_tier_title_monthly">Souscription mensuelle</string>
+    <string name="paywall_single_tier_subtitle_annual">Par an</string>
+    <string name="paywall_single_tier_subtitle_monthly">Par mois</string>
+    <string name="paywall_dialog_purchase_complete_title">Toutes nos félicitations! Vous avez désormais accès à %1$s.</string>
+    <string name="paywall_dialog_purchase_complete_message">Pour gérer votre souscription, accédez aux paramètres du profil.</string>
+    <string name="paywall_dialog_purchase_complete_action">J\'ai compris</string>
+    <string name="paywall_log_out">Se déconnecter</string>
+    <plurals name="paywall_period_yearly">
+        <item quantity="one">Annuel</item>
+        <item quantity="other">Tous les %1$d ans</item>
+    </plurals>
+    <plurals name="paywall_period_monthly">
+        <item quantity="one">Mensuel</item>
+        <item quantity="other">Tous les %1$d mois</item>
+    </plurals>
+    <plurals name="paywall_period_weekly">
+        <item quantity="one">Hebdomadaire</item>
+        <item quantity="other">Toutes les %1$d semaines</item>
+    </plurals>
+    <plurals name="paywall_period_daily">
+        <item quantity="one">chaque jour</item>
+        <item quantity="other">Tous les %1$d jours</item>
+    </plurals>
+    <plurals name="paywall_per_year">
+        <item quantity="one">Par an</item>
+        <item quantity="other">Par %1$d ans</item>
+    </plurals>
+    <plurals name="paywall_per_month">
+        <item quantity="one">Par mois</item>
+        <item quantity="other">Par %1$d mois</item>
+    </plurals>
+    <plurals name="paywall_per_week">
+        <item quantity="one">Par semaine</item>
+        <item quantity="other">Par %1$d semaines</item>
+    </plurals>
+    <plurals name="paywall_per_day">
+        <item quantity="one">Par jour</item>
+        <item quantity="other">Par %1$d jours</item>
+    </plurals>
+    <string name="paywall_upgrade_dialog_title">Vous souhaitez changer de forfait ?</string>
+    <string name="paywall_upgrade_dialog_message">Désabonnez-vous d\'abord de votre plan existant et laissez votre période d\'abonnement se terminer. Une fois terminé, vous pourrez souscrire à un nouveau forfait.</string>
+    <string name="paywall_delete_account">Supprimer le compte</string>
+    <string name="iap_dialog_no_product">Le produit n\'est pas configuré. Veuillez contacter l\'assistance.</string>
+    <string name="buy_iap_product">Acheter - %1$s</string>
+</resources>

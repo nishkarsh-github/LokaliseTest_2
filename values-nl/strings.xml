@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="plan_content_not_included">Content niet inbegrepen</string>
+    <string name="plan_content_included">Content inbegrepen</string>
+    <string name="paywall_purchase_verifying">Aankoop wordt geverifieerd</string>
+    <string name="paywall_purchase_acknowledging">Aankoop wordt erkend</string>
+    <string name="paywall_purchase_complete">Aankoop voltooid</string>
+    <string name="plan_subscribed">Geabonneerd</string>
+    <string name="plan_manage_subscription">Abonnement beheren</string>
+    <string name="paywall_manage_subscriptions_not_found">Abonnementenpaneel kan niet worden geopend</string>
+    <string name="paywall_wrong_configuration">Er zijn momenteel geen abonnementen beschikbaar.</string>
+    <string name="paywall_refresh">Verversen</string>
+    <string name="paywall_subscribe">Abonneren</string>
+    <string name="paywall_billing_error_not_supported">Dit apparaat ondersteunt aankoop van het abonnement niet</string>
+    <string name="paywall_billing_error_developer">De ontwi</string>
+    <string name="paywall_billing_error_fatal">Door de ondervonden fout kan het niet worden aangekocht. Probeer het opnieuw.</string>
+    <string name="paywall_billing_error_timeout">Time-out van de netwerkverzoeken. Probeer het opnieuw.</string>
+    <string name="paywall_billing_error_item_owned">Aankoop mislukt aangezien je het item al bezit.</string>
+    <string name="paywall_billing_error_item_not_owned">Gebruiken mislukt aangezien je het item niet in bezit hebt</string>
+    <string name="paywall_billing_error_item_not_unavailable">Het verzochte item is niet beschikbaar voor aankoop.</string>
+    <string name="paywall_billing_error_cancelled">De aankoop is geannuleerd.</string>
+    <string name="paywall_single_tier_title_annual">Jaarlijks abonnement</string>
+    <string name="paywall_single_tier_title_monthly">Maandelijks abonnement</string>
+    <string name="paywall_single_tier_subtitle_annual">Jaarlijks betaald</string>
+    <string name="paywall_single_tier_subtitle_monthly">Maandelijks betaald</string>
+    <string name="paywall_dialog_purchase_complete_message">Ga naar profielinstellingen om je abonnement te beheren.</string>
+    <string name="paywall_dialog_purchase_complete_action">Begrepen</string>
+    <string name="paywall_log_out">Uitloggen</string>
+    <string name="paywall_upgrade_dialog_title">Wil je van plan veranderen?</string>
+    <string name="paywall_upgrade_dialog_message">Zeg eerst je bestaande abonnement op en laat je abonnementsperiode aflopen. Als dat gedaan is, kun je je abonneren op een nieuw abonnement.</string>
+    <string name="paywall_delete_account">Account verwijderen</string>
+    <string name="iap_dialog_no_product">Het product is niet geconfigureerd. Neem contact op met de ondersteuning.</string>
+    <string name="buy_iap_product">Kopen - %1$s</string>
+    <string name="paywall_default_plan_title">premium</string>
+</resources>

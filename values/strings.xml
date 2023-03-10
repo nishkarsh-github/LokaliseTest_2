@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plan_content_not_included">Content not included</string>
+    <string name="plan_content_included">Content included</string>
+    <string name="paywall_purchase_verifying">Verifying purchase</string>
+    <string name="paywall_purchase_acknowledging">Acknowledging purchase</string>
+    <string name="paywall_purchase_complete">Purchase completed</string>
+    <string name="plan_subscribed">Subscribed</string>
+    <string name="plan_manage_subscription">Manage subscription</string>
+    <string name="paywall_manage_subscriptions_not_found">Cannot open subscriptions panel</string>
+    <string name="paywall_wrong_configuration">There are no subscriptions available currently.</string>
+    <string name="paywall_wrong_configuration_extended"><![CDATA[There are no subscriptions available currently. Please contact <span style="color:%1$s"><b>%2$s</b></span> for assistance.]]></string>
+    <string name="paywall_refresh">Refresh</string>
+    <string name="paywall_default_plan_title">premium</string>
+    <string name="paywall_subscribe">Subscribe</string>
+    <string name="paywall_billing_error_not_supported">This device does not support purchase of the subscription.</string>
+    <string name="paywall_billing_error_developer">The developer error.</string>
+    <string name="paywall_billing_error_http">Client received http error with code %1$d, please try again.</string>
+    <string name="paywall_billing_error_fatal">The error encountered can not purchase, please try again.</string>
+    <string name="paywall_billing_error_timeout">The network requests timed out can, please try again.</string>
+    <string name="paywall_billing_error_item_owned">Failure to purchase since item is already owned.</string>
+    <string name="paywall_billing_error_item_not_owned">Failure to consume since item is not owned.</string>
+    <string name="paywall_billing_error_item_not_unavailable">Requested product is not available for purchase.</string>
+    <string name="paywall_billing_error_cancelled">The purchase cancelled.</string>
+    <string name="paywall_single_tier_title_annual">Annual subscription</string>
+    <string name="paywall_single_tier_title_monthly">Monthly subscription</string>
+    <string name="paywall_single_tier_subtitle_annual">Paid annually</string>
+    <string name="paywall_single_tier_subtitle_monthly">Paid monthly</string>
+    <string name="paywall_dialog_purchase_complete_title">Congratulations! You now have access to %1$s.</string>
+    <string name="paywall_dialog_purchase_complete_message">To manage your subscription go to profile settings.</string>
+    <string name="paywall_dialog_purchase_complete_action">Got it</string>
+    <string name="paywall_upgrade_dialog_title">Looking to change plans?</string>
+    <string name="paywall_upgrade_dialog_message">Unsubscribe from your existing plan first and allow your subscription period to end. Once complete, you’ll be able to subscribe to a new plan. </string>
+    <string name="paywall_log_out">Log out</string>
+    <string name="paywall_delete_account">Delete account</string>
+    <string name="iap_dialog_no_product">The product is not configured. Please contact support.</string>
+
+    <plurals name="paywall_period_yearly">
+        <item quantity="one" formatted="true">Annual</item>
+        <item quantity="other" formatted="true">Every %1$d years</item>
+    </plurals>
+    <plurals name="paywall_period_monthly">
+        <item quantity="one" formatted="true">Monthly</item>
+        <item quantity="other" formatted="true">Every %1$d months</item>
+    </plurals>
+    <plurals name="paywall_period_weekly">
+        <item quantity="one" formatted="true">Weekly</item>
+        <item quantity="other" formatted="true">Every %1$d weeks</item>
+    </plurals>
+    <plurals name="paywall_period_daily">
+        <item quantity="one" formatted="true">Daily</item>
+        <item quantity="other" formatted="true">Every %1$d days</item>
+    </plurals>
+
+    <plurals name="paywall_per_year">
+        <item quantity="one" formatted="true">Per year</item>
+        <item quantity="other" formatted="true">Per %1$d years</item>
+    </plurals>
+    <plurals name="paywall_per_month">
+        <item quantity="one" formatted="true">Per month</item>
+        <item quantity="other" formatted="true">Per %1$d months</item>
+    </plurals>
+    <plurals name="paywall_per_week">
+        <item quantity="one" formatted="true">Per week</item>
+        <item quantity="other" formatted="true">Per %1$d weeks</item>
+    </plurals>
+    <plurals name="paywall_per_day">
+        <item quantity="one" formatted="true">Per day</item>
+        <item quantity="other" formatted="true">Per %1$d days</item>
+    </plurals>
+    <string name="buy_iap_product">Buy - %1$s</string>
+</resources>
